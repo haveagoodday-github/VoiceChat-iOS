@@ -10,7 +10,6 @@ import Alamofire
 import ProgressHUD
 
 
-
 let BASE_URL = "http://172.20.250.236:8082"
 
 class NetworkTools {
