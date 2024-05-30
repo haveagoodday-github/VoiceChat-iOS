@@ -1,0 +1,105 @@
+PODS:
+  - AGConnectAPIAuthQQ (1.9.0.300):
+    - AGConnectAuth (~> 1.4)
+  - AGConnectAuth (1.9.0.300):
+    - AGConnectCredential (~> 1.4)
+  - AGConnectCore (1.9.0.300):
+    - HMFoundation (~> 1.4)
+  - AGConnectCredential (1.9.0.300):
+    - AGConnectCore (~> 1.4)
+  - AGEVideoLayout (1.0.4)
+  - Alamofire (4.9.1)
+  - AlipaySDK-iOS (15.8.16)
+  - HMFoundation (1.9.0.300)
+  - linphone-sdk (5.2.114)
+  - lottie-ios (4.3.4)
+  - PromiseKit (6.18.1):
+    - PromiseKit/CorePromise (= 6.18.1)
+    - PromiseKit/Foundation (= 6.18.1)
+    - PromiseKit/UIKit (= 6.18.1)
+  - PromiseKit/Alamofire (6.18.1):
+    - Alamofire (~> 4.0)
+    - PromiseKit/CorePromise
+  - PromiseKit/CorePromise (6.18.1)
+  - PromiseKit/Foundation (6.18.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.18.1):
+    - PromiseKit/CorePromise
+  - Protobuf (3.22.1)
+  - SDWebImage (5.18.3):
+    - SDWebImage/Core (= 5.18.3)
+  - SDWebImage/Core (5.18.3)
+  - SDWebImageSwiftUI (2.2.4):
+    - SDWebImage (~> 5.10)
+  - SnapKit (5.6.0)
+  - SSZipArchive (2.4.3)
+  - TencentOpenAPI-Mirror (3.5.5)
+  - WechatOpenSDK (2.0.2)
+  - WechatOpenSDK-XCFramework (2.0.2)
+
+DEPENDENCIES:
+  - AGConnectAPIAuthQQ
+  - AGConnectAuth (~> 1.9.0.300)
+  - AGConnectCore (~> 1.9.0.300)
+  - AGEVideoLayout (~> 1.0.2)
+  - AlipaySDK-iOS
+  - linphone-sdk (~> 5.2.66)
+  - lottie-ios
+  - PromiseKit
+  - PromiseKit/Alamofire
+  - Protobuf (= 3.22.1)
+  - SDWebImage
+  - SDWebImageSwiftUI
+  - SnapKit
+  - SSZipArchive
+  - TencentOpenAPI-Mirror
+  - WechatOpenSDK
+  - WechatOpenSDK-XCFramework
+
+SPEC REPOS:
+  https://gitlab.linphone.org/BC/public/podspec.git:
+    - linphone-sdk
+  trunk:
+    - AGConnectAPIAuthQQ
+    - AGConnectAuth
+    - AGConnectCore
+    - AGConnectCredential
+    - AGEVideoLayout
+    - Alamofire
+    - AlipaySDK-iOS
+    - HMFoundation
+    - lottie-ios
+    - PromiseKit
+    - Protobuf
+    - SDWebImage
+    - SDWebImageSwiftUI
+    - SnapKit
+    - SSZipArchive
+    - TencentOpenAPI-Mirror
+    - WechatOpenSDK
+    - WechatOpenSDK-XCFramework
+
+SPEC CHECKSUMS:
+  AGConnectAPIAuthQQ: d92630bc0f4925df4b135ddc0c2b2606aedf3bda
+  AGConnectAuth: e09b18b4035d245e150fbe94d0e927d1c4cf54f8
+  AGConnectCore: f07ea0cd4aefe5c467b8336ea9fa9474c348a028
+  AGConnectCredential: 50729e5d8fe6bbee87e053ead56e8b4427e276eb
+  AGEVideoLayout: a0122fa3fde4fac227b08da8bee0c3fe8de1682c
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlipaySDK-iOS: 5e6011fbd546e7db6b43c1f527d164ee63f3d7cb
+  HMFoundation: 37a598de63a67de3ce428ced640bc6123048097b
+  linphone-sdk: dfe70cd91cd826e1a6833f349525a305f11b438c
+  lottie-ios: 3d98679b41fa6fd6aff2352b3953dbd3df8a397e
+  PromiseKit: 49d70c53d5d20e346beaea4b276b5dd2ab446bb4
+  Protobuf: d7f7c8329edf5eb8af65547a8ba3e9c1cee927d5
+  SDWebImage: 96e0c18ef14010b7485210e92fac888587ebb958
+  SDWebImageSwiftUI: a3ed505b65903252560fcf37ff493d9d97648ae5
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
+  TencentOpenAPI-Mirror: 05c31441d11b8df8e5ce8feed2981abde9afcc81
+  WechatOpenSDK: e79349b37d44c015210f39fd6d2379f0ec60efe2
+  WechatOpenSDK-XCFramework: acdeeda129efbef9532bca8a10c24e1b4b8c7d69
+
+PODFILE CHECKSUM: f3292218fb14d6a19cfbcb435170b2a521cd6f58
+
+COCOAPODS: 1.15.2

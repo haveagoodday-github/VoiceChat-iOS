@@ -1,0 +1,6 @@
+framework module AGConnectAPIAuthQQ {
+  umbrella header "AGConnectAPIAuthQQ.h"
+
+  export *
+  module * { export * }
+}

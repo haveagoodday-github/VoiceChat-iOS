@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-VoiceChatApp/Pods-VoiceChatApp-resources.sh
+${PODS_ROOT}/AGConnectCredential/AGCResources.bundle
+${PODS_ROOT}/AlipaySDK-iOS/AlipaySDK.bundle
+${PODS_ROOT}/TencentOpenAPI-Mirror/TencentOpenAPI/TencentOpenApi_IOS_Bundle.bundle
